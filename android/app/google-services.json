@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143356143431",
+    "project_id": "dubai-metro-map",
+    "storage_bucket": "dubai-metro-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143356143431:android:4141aa282058bf03f5ce62",
+        "android_client_info": {
+          "package_name": "dubai.metro.offlinemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143356143431-7macrq7qsi7tvddfv9r9fes7v3st2ik5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwuoRZzHOjNIswjNRUrR53CpFeAGdqL88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143356143431-7macrq7qsi7tvddfv9r9fes7v3st2ik5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
